@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef9842480f1d3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Astrazione nella progettazione"
+            }
+          },
+          {
+            "id": "0b6ea80cfea57eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Astrazione nella progettazione"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaef415c0599bd8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e26c229f25cfa092",
+        "type": "tabs",
+        "dimension": 51.31313131313131,
+        "children": [
+          {
+            "id": "35235168248d55c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d10f4f7e0442d67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "e7126ddba3fa4541",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      },
+      {
+        "id": "85626f595ff473fc",
+        "type": "tabs",
+        "dimension": 48.68686868686869,
+        "children": [
+          {
+            "id": "a51a3b6dce79b1dd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Metodi Avanzati di Programmazione/Astrazione nella progettazione.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Astrazione nella progettazione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cec41d8d6527a76a",
+    "type": "split",
+    "children": [
+      {
+        "id": "56607393e8ee3d0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "745553c3a0477ba9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DND Hub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a DND Hub"
+            }
+          },
+          {
+            "id": "19213d1cde0a6c69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DND Hub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da DND Hub"
+            }
+          },
+          {
+            "id": "5b94ec43c8f749ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "d006bb3be8d40ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DND Hub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di DND Hub"
+            }
+          },
+          {
+            "id": "68c4a721f0a4d861",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "68c4a721f0a4d861",
+  "lastOpenFiles": [
+    "Metodi Avanzati di Programmazione/Astrazione nella progettazione.md",
+    "Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+    "Metodi Avanzati di Programmazione/Tecniche di progettazione.md",
+    "Untitled.md",
+    "Astrazione Dati.md",
+    "Metodi Avanzati di Programmazione/Programma.md",
+    "d.md",
+    "Senza nome/desktop.ini",
+    "Metodi Avanzati di Programmazione",
+    "Uni/Uni.md",
+    "DND/HUB Principale.md",
+    "DND/DND Hub.md",
+    "Uni",
+    "DND/DND.md",
+    "DND/dndwallpaper.png",
+    "Tags",
+    "Vault.md",
+    "DND",
+    "Everything.md",
+    "Calcolabilità e Complessità.md",
+    ".md",
+    "Benvenuto.md"
+  ]
+}
