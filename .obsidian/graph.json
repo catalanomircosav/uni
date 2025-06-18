@@ -6,36 +6,7 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#map  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#calcolabilita  ",
-      "color": {
-        "a": 1,
-        "rgb": 11545786
-      }
-    },
-    {
-      "query": "path:DnD  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Universita  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 1,
@@ -47,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 121,
   "scale": 0.3823010968769975,
-  "close": false
+  "close": true
 }
