@@ -1,0 +1,6 @@
+___
+Il paradigma della <u>programmazione orientata agli oggetti</u> eleva gli oggetti a un ruolo fondamentale nella progettazione e programmazione, consentendo loro di essere _cittadini di prima classe_. Principi come l'[[a. Tecniche di progettazione#Information Hiding|information hiding]] e l'[[a. Tecniche di progettazione#Encapsulation|incapsulamento]] sono **cardini**di questo paradigma.
+
+ - [ ] [[Gli Oggetti]]
+ Gli oggetti incapsulano uno <u>stato</u> e un <u>comportamento</u>.
+ - Lo **stato** e' determinato dal contenuto di un'area di memoria specifica.
