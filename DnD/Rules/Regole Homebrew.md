@@ -6,7 +6,7 @@ ___
 Eos è un mondo spezzato, abbandonato dagli dèi e avvolto in un eterno crepuscolo. Sopravvivere qui non è semplice: la luce è instabile, il riposo è incerto e le risorse sono scarse.
 ## **☀️ 1. Il Ciclo del Crepuscolo Eterno**
 Dalla scomparsa degli dèi, il sole di Eos è debole e instabile. Il mondo è immerso in una perenne penombra, con periodi in cui la luce cresce e altri in cui scompare del tutto.
-- Ogni **30 giorni**, il sole si spegne completamente per un periodo di **5 giorni** ([[Notte dell'Abisso]]), avvolgendo il mondo in una debole oscurità. 
+- Ogni **30 giorni**, il sole si spegne completamente per un periodo di **5 giorni** (Notte dell'Abisso), avvolgendo il mondo in una debole oscurità. 
 - Durante questi giorni, creature legate alle ombre e agli influssi di [[Pantheon degli Dei#**🌑 Zhulgrim, Il Fratello Rinnegato**|Zhulgrim]] e [[Pantheon degli Dei#**🏹 Sylmara, L'Enigma del Crepuscolo**|Sylmara]] diventano più audaci, mentre i **non morti** si risvegliano con maggiore ferocia. 
 - Gli incantesimi di luce si indeboliscono, mentre quelli legati all'oscurità guadagnano potenza.
 
@@ -66,7 +66,7 @@ Il **Livello di Reputazione** varia da **-50 (Ricercato)** a **+50 (Riverito)**,
 | -3      | -14 a -5    | Sgradito        | - Svantaggio alle prove di Carisma con gli NPC;<br>- Alcuni negozianti nascondono merci rare;<br>- Alcune missioni secondarie vengono negate.                           |
 | -2      | -4 a 0      | Diffidente      | - I bambini evitano i PG;<br>- Le guardie sono sospettose e seguono i PG;<br>- Prezzi aumentati del 25%.                                                                |
 | +1      | +1 a +15    | Neutrale        | - Nessun effetto. La citta' e' indifferente.                                                                                                                            |
-| +2      | +16 a + 30  | Accettato       | - Sconti del 10% dai mercanti;<br>- Le guardie danno indicazioni;<br>- Accesso a missioni di basso livello nella [[Bacheca]].                                           |
+| +2      | +16 a + 30  | Accettato       | - Sconti del 10% dai mercanti;<br>- Le guardie danno indicazioni;<br>- Accesso a missioni di basso livello nella **Bacheca**.                                           |
 | +3      | + 31 a + 40 | Rispettato      | - Sconti del 20% e accesso a oggetti rari;<br>- I sacerdoti offrono benedizioni minori;<br>- Missioni da nobili locali;                                                 |
 | +4      | +41 a +50   | Eroe Locale     | - Alloggio gratuito nelle locande;<br>- Le guardie aiutano i PG nei combattimenti (1 volta);<br>- Accesso ad aree segrete della città.                                  |
 ___

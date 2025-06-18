@@ -1,3 +1,7 @@
+---
+tags:
+  - map
+---
 # Information Hiding
 - Principio fondamentale dell'**astrazione**. Suggerisce di **occultare l'informazione sulla rappresentazione del dato**.  
   Questo occultamento è giustificato per due ragioni principali:

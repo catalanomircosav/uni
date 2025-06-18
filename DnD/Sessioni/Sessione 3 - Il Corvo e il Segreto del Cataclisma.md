@@ -36,7 +36,7 @@ ___
 > "Non posso aiutarvi oltre. Andate, ora." e, come un soffio di fumo, [[Il Corvo]] scompare.
 #### 🗺️ **Esplorazione: La Camera dei Sussurri**
 ##### 🔍 **Punti d'Interesse**
-1. **[[Affresco Sbiadito]]**:
+1. **Affresco Sbiadito**:
 	1. Raffigura 9 figure divine che vengono trafitti con lance di luce.
 	2. **Storia (CD 14)**: Riconoscono i simboli del "Pantheon Perduto di Eos" (i tuoi dèi).
 2. **Altare di Pietra Nera**:

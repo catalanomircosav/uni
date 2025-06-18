@@ -7,20 +7,14 @@ tags:
 ---
 ## 🔮 **Panoramica della Campagna**
 - **Trama Principale**: Gli dei sono stati sconfitti da un'entità ancora sconosciuta.  Riusciranno i giocatori a reclamare ciò che li spetta di diritto?
-- **Stato Attuale**:  
+- **Stato Attuale**: [[Sessione 3 - Il Corvo e il Segreto del Cataclisma]]
 - **Link Utili**:
   - [[Regole Homebrew]]
   - [[Pantheon degli Dei]]
 ---
 ### 🏰 **Luoghi Chiave**
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Luogo",
-  type AS "Tipo",
-  clima AS "Clima"
-FROM "Locations" AND #location 
-SORT file.name
-```
+[[Locanda del Drago Nero]]
+[[Grimerfell]]
 ___
 ### 👥 **NPC**
 ```dataview
@@ -34,16 +28,7 @@ SORT file.name
 ```
 ___
 ### 🎯 **Quest Attive**
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Quest",
-  status AS "Stato",
-  livello AS "Livello",
-  location AS "Luogo"
-FROM #quest 
-WHERE status = "Attiva"
-SORT livello
-```
+[[Sessione 4 -]]
 ___
 ### ⚔️ **Fazioni & Organizzazioni**
 ```dataview

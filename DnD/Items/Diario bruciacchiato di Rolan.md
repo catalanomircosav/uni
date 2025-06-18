@@ -6,7 +6,7 @@ owner: "[[Sergio]]"
 ---
 - **Tipo dell'oggetto**: Libro
 - **Rarità**: Unico
-- **Proprietario attuale**: [[Sergio]]
+- **Proprietario attuale**: [[Sergio.pdf]]
 - **Limiti**: Fragile, facilmente distruttibile. Se danneggiato ulteriormente, alcune pagine andranno perse per sempre.
 - **Condizioni speciali**: Nessuna. Chiunque sappia leggere può consultarlo.
 
