@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+                "file": "Universita/Universita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Paradigma Object - Oriented"
+              "title": "Universita"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+                "file": "Universita/Universita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 4. Paradigma Object - Oriented"
+              "title": "Riferimenti a Universita"
             }
           },
           {
@@ -205,9 +205,10 @@
   },
   "active": "894261b89be78beb",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Universita.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
     "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Senza nome.md",
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "DnD/Locations/Grimerfell.md",
@@ -237,7 +238,6 @@
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
     "DnD/Sessioni/Sessione 4 -.md",
-    "DnD/Items/Artigli dell'Ingordigia.md",
     "DnD/immagini/diario di rolan.png",
     "DnD/immagini/voidante-modified.png",
     "DnD/immagini/voidante.jpg",
