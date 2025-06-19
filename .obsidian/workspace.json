@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "1b1b4a97cfad08b3",
     "type": "split",
     "children": [
       {
-        "id": "263eb5a2607edcb4",
+        "id": "cd3ad470b2d84c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "894261b89be78beb",
+            "id": "8a1fd87e2bfecda0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aaef415c0599bd8c",
+    "id": "b28648359d9f59b1",
     "type": "split",
     "children": [
       {
-        "id": "e26c229f25cfa092",
+        "id": "cd4479c496f39185",
         "type": "tabs",
         "children": [
           {
-            "id": "35235168248d55c7",
+            "id": "ae03c6945964139b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "0d10f4f7e0442d67",
+            "id": "7223fa229862fba6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Bac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +61,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
-            "id": "e7126ddba3fa4541",
+            "id": "ce6a91fca90ce8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,20 +78,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "cec41d8d6527a76a",
+    "id": "40425776f30ef8b1",
     "type": "split",
     "children": [
       {
-        "id": "56607393e8ee3d0c",
+        "id": "6fab95c575f55a7e",
         "type": "tabs",
-        "dimension": 42.05426356589148,
         "children": [
           {
-            "id": "745553c3a0477ba9",
+            "id": "a5bc698468a8554c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,21 +109,20 @@
             }
           },
           {
-            "id": "19213d1cde0a6c69",
+            "id": "9e4a6f603a5775ec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Astrazione nella progettazione"
+              "title": "Collegamenti in uscita"
             }
           },
           {
-            "id": "5b94ec43c8f749ea",
+            "id": "37b6a66af944373d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,52 +137,28 @@
             }
           },
           {
-            "id": "d006bb3be8d40ffe",
+            "id": "c882502dd8a129bf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND Hub.md",
+                "file": "Benvenuto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di DND Hub"
-            }
-          },
-          {
-            "id": "68c4a721f0a4d861",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "f17b67fffebd2fe7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Struttura di Benvenuto"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
-        "id": "94a4e9f1eee94354",
+        "id": "3762b40478696f2c",
         "type": "tabs",
-        "dimension": 57.94573643410852,
         "children": [
           {
-            "id": "20aad16703c2bfe8",
+            "id": "467b3007ab856a88",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -199,69 +173,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
+    "width": 321.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Crea nuova bacheca": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "obsidian-kanban:Crea nuova bacheca": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "894261b89be78beb",
+  "active": "8a1fd87e2bfecda0",
   "lastOpenFiles": [
     "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
     "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
-    "2025-06-19.md",
-    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
-    "Universita/Universita.md",
-    "Senza nome.md",
-    "DnD/Locations/Grimerfell.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
-    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
-    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
-    "Universita/Metodi Avanzati di Programmazione/Astrazione nella programmazione.md",
-    "Untitled Kanban.md",
-    "DnD/Sessioni/Sessione 3 - Il Corvo e il Segreto del Cataclisma.md",
-    "DnD/HUB.md",
-    "DnD/Rules/Pantheon degli Dei.md",
-    "DnD/Rules/Regole Homebrew.md",
-    "DnD/Items/Diario bruciacchiato di Rolan.md",
-    "Specifica algebrica dell'astrazione dati.md",
-    "DnD/Locations/Locanda del Drago Nero.md",
-    "Bacheca.md",
-    "Universita/Metodi Avanzati di Programmazione/Untitled.canvas",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
+    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
-    "Universita/Metodi Avanzati di Programmazione/Astrazione nella progettazione.md",
+    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/immagini/Pasted image 20250617185029.png",
+    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
+    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+    "Universita/Universita.md",
+    "Universita/Metodi Avanzati di Programmazione",
     "Universita/immagini",
-    "OIP.webp",
-    "Programma Calcolabilità'.md",
-    "DnD/immagini/sfondo campagna.jpg",
+    "Universita/Calcolabilita' e Complessita'",
+    "Universita",
+    "DnD/immagini/voidante.jpg",
+    "DnD/Sessioni/Sessione 4 -.md",
+    "DnD/Sessioni/Sessione 3 - Il Corvo e il Segreto del Cataclisma.md",
+    "DnD/Rules/Regole Homebrew.md",
+    "DnD/Locations/Grimerfell.md",
+    "DnD/Rules/Pantheon degli Dei.md",
+    "DnD/Locations/Locanda del Drago Nero.md",
+    "DnD/NPCs/Rolan il Rospo.md",
+    "DnD/Items/Diario bruciacchiato di Rolan.md",
+    "DnD/Items/Artigli dell'Ingordigia.md",
     "DnD/immagini/sfondo campagna.png",
     "DnD/immagini/diario di rolan.png",
-    "DnD/immagini/voidante-modified.png",
-    "DnD/immagini/voidante.jpg",
-    "DnD/immagini/med.png",
-    "DnD/Untitled",
-    "DnD/Rules",
-    "DnD/immagini",
-    "DnD/Bestiary",
+    "DnD/immagini/sfondo campagna.jpg",
+    "DnD/Bestiary/Voidante.md",
     "DnD/Sessioni",
-    "DnD/Items",
-    "DnD/Quests",
+    "DnD/Rules",
     "DnD/NPCs",
-    "DND/dndwallpaper.png"
+    "DnD/Locations",
+    "DnD/Items",
+    "DnD/HUB.md",
+    "Benvenuto.md"
   ]
 }
