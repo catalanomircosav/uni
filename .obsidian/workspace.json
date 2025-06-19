@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Universita.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universita"
+              "title": "4. Paradigma Object - Oriented"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "cec41d8d6527a76a",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Universita.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Universita"
+              "title": "Riferimenti a 4. Paradigma Object - Oriented"
             }
           },
           {
@@ -163,8 +164,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f17b67fffebd2fe7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "94a4e9f1eee94354",
@@ -205,12 +217,13 @@
   },
   "active": "894261b89be78beb",
   "lastOpenFiles": [
-    "Universita/Universita.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
     "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
-    "Senza nome.md",
+    "2025-06-19.md",
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+    "Universita/Universita.md",
+    "Senza nome.md",
     "DnD/Locations/Grimerfell.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
@@ -237,7 +250,6 @@
     "Programma Calcolabilità'.md",
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
-    "DnD/Sessioni/Sessione 4 -.md",
     "DnD/immagini/diario di rolan.png",
     "DnD/immagini/voidante-modified.png",
     "DnD/immagini/voidante.jpg",
