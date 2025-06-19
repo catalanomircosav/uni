@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd28f7bd23f8b96",
+        "id": "263eb5a2607edcb4",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef65b51087443f8",
+            "id": "894261b89be78beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "cec41d8d6527a76a",
@@ -188,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +202,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ef65b51087443f8",
+  "active": "894261b89be78beb",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
+    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
-    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
     "Universita/Metodi Avanzati di Programmazione/Astrazione nella programmazione.md",
-    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Untitled Kanban.md",
     "Universita/Universita.md",
     "DnD/Sessioni/Sessione 3 - Il Corvo e il Segreto del Cataclisma.md",
