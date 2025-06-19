@@ -11,10 +11,14 @@
             "id": "8df6c618b9d7a7a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "4. Paradigma Object - Oriented"
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a 4. Paradigma Object - Oriented"
             }
           },
           {
@@ -186,8 +191,8 @@
   },
   "active": "8df6c618b9d7a7a7",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
