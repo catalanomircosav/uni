@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "cec41d8d6527a76a",
@@ -206,20 +205,20 @@
   },
   "active": "894261b89be78beb",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
-    "DnD/Locations/Grimerfell.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+    "Universita/Universita.md",
     "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Senza nome.md",
+    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
+    "DnD/Locations/Grimerfell.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Astrazione nella programmazione.md",
     "Untitled Kanban.md",
-    "Universita/Universita.md",
     "DnD/Sessioni/Sessione 3 - Il Corvo e il Segreto del Cataclisma.md",
     "DnD/HUB.md",
     "DnD/Rules/Pantheon degli Dei.md",
