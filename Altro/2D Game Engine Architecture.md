@@ -128,13 +128,55 @@
 ## Cross-Module Dependencies
 ```mermaid
 graph TD
-    Core --> Graphics
-    Core --> Audio
-    Core --> Input
-    Core --> Network
-    Core --> ECS
-    ECS --> Physics
-    ECS --> Graphics
-    Input --> Scenes
-    Scenes --> Scripting
+    %% ======================
+    %% CORE FOUNDATION
+    %% ======================
+    A[Core] -->|provides time| B[Graphics]
+    A -->|logs errors| C[Audio]
+    A -->|configures| D[Input]
+    A -->|manages threads| E[Network]
+    A -->|coordinates| F[ECS]
+    
+    %% ======================
+    %% ECS ECOSYSTEM
+    %% ======================
+    F -->|entities| G[Physics]
+    F -->|render components| B
+    F -->|audio components| C
+    F -->|input components| D
+    
+    %% ======================
+    %% SUBSYSTEM RELATIONS
+    %% ======================
+    subgraph "Rendering Pipeline"
+    B -->|requires| H[Scenes]
+    end
+    
+    subgraph "Game Logic Flow"
+    D -->|sends events| H
+    H -->|uses scripting| I[Scripting]
+    I -->|modifies| F
+    end
+    
+    %% ======================
+    %% PHYSICS INTEGRATION
+    %% ======================
+    G -->|collision events| F
+    G -->|raycast queries| H
+    
+    %% ======================
+    %% NETWORK SYNC
+    %% ======================
+    E -->|syncs state| F
+    E -->|streams assets| B
+    E -->|triggers sounds| C
+    
+    %% ======================
+    %% STYLE
+    %% ======================
+    style A fill:#2ecc71,stroke:#27ae60
+    style F fill:#3498db,stroke:#2980b9
+    style H fill:#9b59b6,stroke:#8e44ad
+    classDef subsystem fill:#f39c12,stroke:#e67e22
+    class B,C,D,E,G,I subsystem
 ```
