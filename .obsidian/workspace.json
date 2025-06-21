@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "1b1b4a97cfad08b3",
+    "id": "cf0c781869db61df",
     "type": "split",
     "children": [
       {
-        "id": "79be4eba7d1eb8ae",
+        "id": "1f3b666cca40bd5d",
         "type": "tabs",
         "children": [
           {
-            "id": "8df6c618b9d7a7a7",
+            "id": "fa527738f0b7ae15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+                "file": "Altro/2D Game Engine Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Paradigma Object - Oriented"
+              "title": "2D Game Engine Architecture"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b28648359d9f59b1",
+    "id": "bcf11c084c2410bd",
     "type": "split",
     "children": [
       {
-        "id": "cd4479c496f39185",
+        "id": "5860a0f36968e5ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ae03c6945964139b",
+            "id": "2b1e8244f7c2bd1f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "7223fa229862fba6",
+            "id": "7856347590f985bf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "ce6a91fca90ce8fa",
+            "id": "0e8428676457b5f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +82,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "40425776f30ef8b1",
+    "id": "b6678fdedd99d422",
     "type": "split",
     "children": [
       {
-        "id": "6fab95c575f55a7e",
+        "id": "5d076614fb429bac",
         "type": "tabs",
         "children": [
           {
-            "id": "a5bc698468a8554c",
+            "id": "eb7830b8f924f27b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+                "file": "Altro/2D Game Engine Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +105,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 4. Paradigma Object - Oriented"
+              "title": "Riferimenti a 2D Game Engine Architecture"
             }
           },
           {
-            "id": "9e4a6f603a5775ec",
+            "id": "bcdd5e2cc2d2ecec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "37b6a66af944373d",
+            "id": "58274ebe74e93362",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,34 +137,31 @@
             }
           },
           {
-            "id": "c882502dd8a129bf",
+            "id": "bad93bb8f81b7779",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benvenuto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Benvenuto"
+              "title": "Struttura"
             }
           }
         ]
       },
       {
-        "id": "3762b40478696f2c",
+        "id": "cc862c0ea4360ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "467b3007ab856a88",
+            "id": "6aee70405ef7f07c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
@@ -173,61 +170,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-kanban:Crea nuova bacheca": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "8df6c618b9d7a7a7",
+  "active": "fa527738f0b7ae15",
   "lastOpenFiles": [
+    "Altro/2D Game Engine Architecture.md",
+    "Altro",
     "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
-    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
-    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici",
-    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
-    "Universita/immagini/Pasted image 20250617185029.png",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+    "Universita/immagini/Pasted image 20250617185029.png",
+    "Universita/Metodi Avanzati di Programmazione/Appendici",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
+    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+    "Universita/Calcolabilita' e Complessita'",
+    "Universita/immagini",
     "Universita/Universita.md",
     "Universita/Metodi Avanzati di Programmazione",
-    "Universita/immagini",
-    "Universita/Calcolabilita' e Complessita'",
     "Universita",
-    "DnD/immagini/voidante.jpg",
-    "DnD/Sessioni/Sessione 4 -.md",
-    "DnD/Sessioni/Sessione 3 - Il Corvo e il Segreto del Cataclisma.md",
-    "DnD/Rules/Regole Homebrew.md",
-    "DnD/Locations/Grimerfell.md",
     "DnD/Rules/Pantheon degli Dei.md",
-    "DnD/Locations/Locanda del Drago Nero.md",
+    "DnD/Sessioni/Sessione 4 -.md",
+    "DnD/Rules/Regole Homebrew.md",
+    "DnD/Sessioni/Sessione 3 - Il Corvo e il Segreto del Cataclisma.md",
     "DnD/NPCs/Rolan il Rospo.md",
+    "DnD/Locations/Grimerfell.md",
+    "DnD/Locations/Locanda del Drago Nero.md",
     "DnD/Items/Diario bruciacchiato di Rolan.md",
     "DnD/Items/Artigli dell'Ingordigia.md",
+    "DnD/immagini/voidante.jpg",
+    "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
     "DnD/immagini/diario di rolan.png",
-    "DnD/immagini/sfondo campagna.jpg",
     "DnD/Bestiary/Voidante.md",
-    "DnD/Sessioni",
     "DnD/Rules",
+    "DnD/Sessioni",
     "DnD/NPCs",
-    "DnD/Locations",
-    "DnD/Items",
     "DnD/HUB.md",
-    "Benvenuto.md"
+    "DnD/Locations"
   ]
 }
