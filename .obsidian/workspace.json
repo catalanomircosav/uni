@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Polimorfismo"
+              "title": "4. Polimorfismo in JAVA"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 4. Polimorfismo"
+              "title": "Riferimenti a 4. Polimorfismo in JAVA"
             }
           },
           {
@@ -188,7 +189,7 @@
   "active": "fa527738f0b7ae15",
   "lastOpenFiles": [
     "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
     "Universita/Universita.md",
     "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
