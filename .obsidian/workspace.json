@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Passaggio di parametri"
+              "title": "6. Gestione delle eccezioni"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 5. Passaggio di parametri"
+              "title": "Riferimenti a 6. Gestione delle eccezioni"
             }
           },
           {
@@ -169,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 463.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -187,10 +188,13 @@
   },
   "active": "fa527738f0b7ae15",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
     "Universita/Universita.md",
+    "Universita/Metodi Avanzati di Programmazione/MAP.md",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
     "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
@@ -204,7 +208,6 @@
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/immagini/Pasted image 20250617185029.png",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
-    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
     "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
@@ -219,8 +222,6 @@
     "DnD/NPCs/Rolan il Rospo.md",
     "DnD/Locations/Grimerfell.md",
     "DnD/Locations/Locanda del Drago Nero.md",
-    "DnD/Items/Diario bruciacchiato di Rolan.md",
-    "DnD/Items/Artigli dell'Ingordigia.md",
     "DnD/immagini/voidante.jpg",
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
