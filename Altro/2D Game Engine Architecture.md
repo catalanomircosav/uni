@@ -125,6 +125,11 @@
     - Custom API exposure
   - Hot-reloading support
 
+### 10. `UI` - User Interface (Opzionale)
+- **Widget System**: button, label, checkbox, etc.
+- **Layout Engine**: anchor, relative sizing
+- **Event Dispatch**: mouse-over, click, focus
+
 ## Cross-Module Dependencies
 ```mermaid
 graph TD
