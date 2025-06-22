@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "923e3e414d25dfd3",
+        "id": "6a767a5edaa16a40",
         "type": "tabs",
         "children": [
           {
-            "id": "edc0079a32c8b618",
+            "id": "2e740befebfc1164",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -191,7 +191,7 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "edc0079a32c8b618",
+  "active": "2e740befebfc1164",
   "lastOpenFiles": [
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Universita/Universita.md",
