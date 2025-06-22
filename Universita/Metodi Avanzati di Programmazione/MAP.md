@@ -20,3 +20,7 @@ MAP - `JAVA`
 [[7. Contenitori]]
 [[8. RTTI]]
 [[9. JAVA Generics]]
+[[10. Serializzazione]]
+[[11. JDBC (Java Database Connectivity)]]
+[[12. Multithreading]]
+[[13. Programmazione in Rete in Java]]

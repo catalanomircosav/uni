@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Multithreading"
+              "title": "13. Programmazione in Rete in Java"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -198,22 +197,23 @@
   },
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
     "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
-    "Universita/Metodi Avanzati di Programmazione/MAP.md",
-    "Universita/Universita.md",
-    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Universita/Metodi Avanzati di Programmazione/Java/7. Contenitori.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
     "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
     "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
+    "Universita/Universita.md",
+    "Universita/Metodi Avanzati di Programmazione/MAP.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
+    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
@@ -231,7 +231,6 @@
     "Universita/immagini",
     "Universita/Metodi Avanzati di Programmazione",
     "Universita",
-    "DnD/Rules/Pantheon degli Dei.md",
     "DnD/immagini/voidante.jpg",
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",

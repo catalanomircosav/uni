@@ -1,5 +1,5 @@
 ___
-## CALCOLABILITA E COMPLESSITA
+## CALCOLABILITA' E COMPLESSITA'
 [[1. Automi a Stati Finiti Deterministici]]
 
 
