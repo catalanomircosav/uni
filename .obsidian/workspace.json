@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. JDBC"
+              "title": "11. JDBC (Java Database Connectivity)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -198,7 +199,7 @@
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
     "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
