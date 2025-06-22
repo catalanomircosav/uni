@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. JDBC (Java Database Connectivity)"
+              "title": "12. Multithreading"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
-    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
+    "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
@@ -231,7 +232,6 @@
     "Universita/Metodi Avanzati di Programmazione",
     "Universita",
     "DnD/Rules/Pantheon degli Dei.md",
-    "DnD/Sessioni/Sessione 4 -.md",
     "DnD/immagini/voidante.jpg",
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
