@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altro/2D Game Engine Architecture.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2D Game Engine Architecture"
+              "title": "1. Introduzione a Java"
             }
           }
         ]
@@ -188,12 +188,14 @@
   },
   "active": "fa527738f0b7ae15",
   "lastOpenFiles": [
-    "Altro/2D Game Engine Architecture.md",
-    "Altro",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
+    "Altro/2D Game Engine Architecture.md",
+    "Universita/Metodi Avanzati di Programmazione/Java",
+    "Altro",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/immagini/Pasted image 20250617185029.png",
@@ -224,7 +226,6 @@
     "DnD/Rules",
     "DnD/Sessioni",
     "DnD/NPCs",
-    "DnD/HUB.md",
-    "DnD/Locations"
+    "DnD/HUB.md"
   ]
 }
