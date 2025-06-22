@@ -13,3 +13,7 @@ MAP - appendici:
 [[b. Gestione delle eccezioni]]
 [[c. UML]]
 [[d. Tecniche di programmazione]]
+
+MAP - `JAVA`
+[[1. Introduzione a Java]]
+[[2. Nascondere le implementazioni]]
