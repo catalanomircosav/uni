@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
+                "file": "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Programmazione in Rete in Java"
+              "title": "1. Automi a Stati Finiti Deterministici"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -197,6 +198,7 @@
   },
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
+    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
@@ -207,7 +209,6 @@
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
     "Universita/Universita.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
