@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+                "file": "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Automi a Stati Finiti Deterministici"
+              "title": "3. ADA"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -198,6 +197,8 @@
   },
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
+    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+    "Universita/Metodi Avanzati di Programmazione.zip",
     "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
@@ -222,12 +223,10 @@
     "Altro/2D Game Engine Architecture.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Altro",
-    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/immagini/Pasted image 20250617185029.png",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
-    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Calcolabilita' e Complessita'",
     "Universita/immagini",
     "Universita/Metodi Avanzati di Programmazione",
@@ -237,7 +236,6 @@
     "DnD/immagini/sfondo campagna.png",
     "DnD/immagini/diario di rolan.png",
     "DnD/Rules",
-    "DnD/Sessioni",
-    "DnD/NPCs"
+    "DnD/Sessioni"
   ]
 }
