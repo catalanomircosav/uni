@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
+                "file": "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. ADA"
+              "title": "1. Automi a Stati Finiti Deterministici"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -197,6 +198,7 @@
   },
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
+    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/Metodi Avanzati di Programmazione.zip",
     "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
@@ -225,7 +227,6 @@
     "Altro",
     "Universita/immagini/Pasted image 20250617185029.png",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
-    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
     "Universita/Calcolabilita' e Complessita'",
     "Universita/immagini",
