@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "cf0c781869db61df",
+    "id": "7e2847c9abe20c29",
     "type": "split",
     "children": [
       {
-        "id": "6a767a5edaa16a40",
+        "id": "c8113b4f12abd678",
         "type": "tabs",
         "children": [
           {
-            "id": "2e740befebfc1164",
+            "id": "698a1f4c6a239be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bcf11c084c2410bd",
+    "id": "245ebd1252094e72",
     "type": "split",
     "children": [
       {
-        "id": "5860a0f36968e5ae",
+        "id": "501a65f0130916ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2b1e8244f7c2bd1f",
+            "id": "abbce0c124078586",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "7856347590f985bf",
+            "id": "e2e62517ced0e0a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0e8428676457b5f7",
+            "id": "628c96a7de1aa618",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b6678fdedd99d422",
+    "id": "aa5e8a1874389671",
     "type": "split",
     "children": [
       {
-        "id": "5d076614fb429bac",
+        "id": "e920f8c9d1a7bfb0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7830b8f924f27b",
+            "id": "e70fc867b0d1c16f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a 2. Automi a Stati Finiti non Deterministici"
             }
           },
           {
-            "id": "bcdd5e2cc2d2ecec",
+            "id": "dde05cb2b920ed5b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da 2. Automi a Stati Finiti non Deterministici"
             }
           },
           {
-            "id": "58274ebe74e93362",
+            "id": "d0b44d698365943f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,108 +137,80 @@
             }
           },
           {
-            "id": "bad93bb8f81b7779",
+            "id": "2d66a85cc65858c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
-            }
-          },
-          {
-            "id": "9f45ba565a2b7f8a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "cc862c0ea4360ed0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6aee70405ef7f07c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "title": "Struttura di 2. Automi a Stati Finiti non Deterministici"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 463.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Crea nuova bacheca": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e740befebfc1164",
+  "active": "698a1f4c6a239be4",
   "lastOpenFiles": [
-    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
-    "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
-    "Universita/Metodi Avanzati di Programmazione.zip",
-    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
+    "Benvenuto.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
     "Universita/Metodi Avanzati di Programmazione/Java/7. Contenitori.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
-    "Universita/Universita.md",
-    "Universita/Metodi Avanzati di Programmazione/MAP.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
-    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
     "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
+    "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
-    "Altro/2D Game Engine Architecture.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
+    "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
-    "Altro",
-    "Universita/immagini/Pasted image 20250617185029.png",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
+    "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
+    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+    "Universita/immagini/Pasted image 20250617185029.png",
+    "Universita/Universita.md",
+    "Universita/Metodi Avanzati di Programmazione",
     "Universita/Calcolabilita' e Complessita'",
     "Universita/immagini",
-    "Universita/Metodi Avanzati di Programmazione",
     "Universita",
     "DnD/immagini/voidante.jpg",
-    "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
     "DnD/immagini/diario di rolan.png",
+    "DnD/immagini/sfondo campagna.jpg",
+    "DnD/Sessioni",
     "DnD/Rules",
-    "DnD/Sessioni"
+    "DnD/NPCs",
+    "DnD/Locations"
   ]
 }
