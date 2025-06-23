@@ -1,9 +1,9 @@
 [
-  "obsidian-kanban",
-  "obsidian-icon-folder",
-  "obsidian-html-tags-autocomplete",
-  "table-editor-obsidian",
   "obsidian-git",
-  "break-page",
-  "dataview"
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-html-tags-autocomplete",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "break-page"
 ]
