@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5e8a1874389671",
@@ -171,6 +172,8 @@
   },
   "active": "698a1f4c6a239be4",
   "lastOpenFiles": [
+    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
+    "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
     "Benvenuto.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
@@ -196,8 +199,6 @@
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
     "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
     "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
-    "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
-    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/immagini/Pasted image 20250617185029.png",
     "Universita/Universita.md",
     "Universita/Metodi Avanzati di Programmazione",
