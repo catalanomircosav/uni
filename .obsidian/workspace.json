@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8113b4f12abd678",
+        "id": "a3252672a7846d74",
         "type": "tabs",
         "children": [
           {
-            "id": "698a1f4c6a239be4",
+            "id": "523f94ea6b87af27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Automi a Stati Finiti non Deterministici"
             }
           }
         ]
@@ -90,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 2. Automi a Stati Finiti non Deterministici"
+              "title": "Riferimenti"
             }
           },
           {
@@ -148,11 +151,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "aa632f95f665abb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "698a1f4c6a239be4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 564.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,32 +187,32 @@
   },
   "active": "698a1f4c6a239be4",
   "lastOpenFiles": [
-    "Universita/Universita.md",
-    "Universita/Calcolabilita' e Complessita'/Calcolabilita' e Complessita'.md",
-    "Universita/Metodi Avanzati di Programmazione/MAP.md",
-    "Universita/Calcolabilita' e Complessita'/4. Pumping Lemma per i Linguaggi Regolari.md",
-    "Universita/Calcolabilita' e Complessita'/Esercizi Pumping Lemma e Chiusure Regolari.md",
-    "Universita/Calcolabilita' e Complessita'/3. Espressioni regolari e grammatiche.md",
     "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
     "Altro/2D Game Engine Architecture.md",
-    "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
-    "Benvenuto.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
+    "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
+    "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
+    "Universita/Metodi Avanzati di Programmazione/2. Astrazione nella programmazione.md",
+    "Universita/Metodi Avanzati di Programmazione/1. Astrazione nella progettazione.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/a. Tecniche di progettazione.md",
+    "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
+    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
+    "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java/7. Contenitori.md",
     "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
     "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
     "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/d. Tecniche di programmazione.md",
     "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
+    "Universita/Universita.md",
+    "Universita/Metodi Avanzati di Programmazione/MAP.md",
+    "Universita/Calcolabilita' e Complessita'/Calcolabilita' e Complessita'.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/immagini/Pasted image 20250617185029.png",

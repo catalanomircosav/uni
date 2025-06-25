@@ -1,3 +1,8 @@
+---
+tags:
+  - map
+---
+
 ## MAP
 [[1. Astrazione nella progettazione]]
 [[2. Astrazione nella programmazione]]
