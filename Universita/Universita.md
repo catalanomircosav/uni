@@ -1,8 +1,5 @@
 ___
 ## CALCOLABILITA' E COMPLESSITA'
-[[1. Automi a Stati Finiti Deterministici]]
-
-
-
+[[Calcolabilita' e Complessita']]
 ## Materie
 1. [[MAP]]
