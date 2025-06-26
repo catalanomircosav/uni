@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universita/Calcolabilita' e Complessita'/4. Pumping Lemma per i Linguaggi Regolari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a 4. Pumping Lemma per i Linguaggi Regolari"
+              "title": "Riferimenti"
             }
           },
           {
@@ -186,8 +185,9 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "523f94ea6b87af27",
+  "active": "698a1f4c6a239be4",
   "lastOpenFiles": [
+    "Universita/Calcolabilita' e Complessita'/4. Pumping Lemma per i Linguaggi Regolari.md",
     "Universita/Calcolabilita' e Complessita'/Calcolabilita' e Complessita'.md",
     "DnD/HUB.md",
     "Universita/Universita.md",
@@ -213,7 +213,6 @@
     "Universita/Metodi Avanzati di Programmazione/Java/5. Passaggio di parametri.md",
     "Universita/Metodi Avanzati di Programmazione/Java/4. Polimorfismo in JAVA.md",
     "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
-    "Universita/Metodi Avanzati di Programmazione/Appendici/c. UML.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/immagini/Pasted image 20250617185029.png",
