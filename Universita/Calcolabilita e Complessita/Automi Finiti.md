@@ -54,6 +54,7 @@ Considerando prima il caso in cui $N$ non abbia $\lambda$-archi.
 Bisogna pero considerare anche i $\lambda$-archi: per farlo, si introduce $E(R)$, ovvero la collezione di stati che possono essere raggiunti dagli elementi di $R$ proseguendo solo con i $\lambda$-archi, includendo gli stessi elementi di $R$, ovvero:
 $$E(R) = \{\space q\space|\space q \text{ può essere raggiunto da } R \text{ attraverso 0 o piu' } \lambda\text{-archi }\}$$
 Inoltre, bisogna modificare lo stato iniziale di $M$ per muovere inizialmente su tutti i possibili stati che possono essere raggiunto dallo stato iniziale di $N$ attraverso gli $\lambda$-archi. Cambiare $q_0'$ in $E(\{q_0\})$realizza questo.
+La funzione di transizione sarà quindi: $$\delta'(R, a) = E\left( \bigcup_{r\in R}\delta(r,a) \right)$$
 ___
 ## <u>linguaggi regolari</u>
 Un linguaggio e' definito **regolare** quando e' riconosciuto da un automa finito, che sia *deterministico* o *non deterministico*.
