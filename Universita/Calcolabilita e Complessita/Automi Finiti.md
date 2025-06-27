@@ -36,6 +36,8 @@ La differenza tra un **DFA** e un **NFA** e' che, dato un simbolo dell'alfabeto 
 ____
 ## <u>teorema: equivalenza della classe di linguaggi DFA e NFA</u>
 **ipotesi**: Per ogni NFA esiste sempre un DFA equivalente che riconosce lo stesso linguaggio.
+**dimostrazione**:
+Sia $N = (Q, \Sigma, \delta, q_0, F$) un **NFA** che riconosce un qualsiasi linguaggio **A**;
 
 ___
 ## <u>linguaggi regolari</u>
