@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Universita.md",
+                "file": "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universita"
+              "title": "3. Espressioni regolari"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
+                "file": "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Espressioni regolari"
+              "title": "1. Automi Finiti"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5e8a1874389671",
@@ -202,15 +202,15 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "c737329323a0e9fd",
+  "active": "523f94ea6b87af27",
   "lastOpenFiles": [
+    "Universita/Universita.md",
+    "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
     "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
-    "Universita/Universita.md",
     "Universita/Calcolabilita e Complessita/Calcolabilita' e Complessita'.md",
     "Universita/Calcolabilita e Complessita/2. Linguaggi regolari.md",
-    "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
     "Senza nome.md",
     "Universita/Calcolabilita e Complessita",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti.md",
