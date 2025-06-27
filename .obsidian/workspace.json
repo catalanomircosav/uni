@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altro/Reel Wheel/README.md",
+                "file": "Altro/Reel Wheel/Specifiche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "c737329323a0e9fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Automi Finiti"
+              "title": "Specifiche"
             }
           }
         ]
@@ -204,14 +190,14 @@
   },
   "active": "523f94ea6b87af27",
   "lastOpenFiles": [
-    "Altro/Reel Wheel/Specifiche.md",
     "Altro/Reel Wheel/README.md",
+    "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
+    "Altro/Reel Wheel/Specifiche.md",
     "Altro/Reel Wheel",
     "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
     "Universita/Calcolabilita e Complessita/2. Linguaggi regolari.md",
     "Universita/Calcolabilita e Complessita/Calcolabilita' e Complessita'.md",
     "Universita/Universita.md",
-    "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
     "Senza nome.md",

@@ -2,13 +2,13 @@
 ---
 ## 1. Palette Colori – “Atmosfera da Cinema”
 
-| Colore          | Uso Principale               | Codice Hex  |
-|-----------------|-----------------------------|-------------|
-| Viola Profondo  | Sfondo, componenti principali| `#2C003E`   |
-| Nero Grafite    | Background, testo secondario | `#121212`   |
-| Arancio Bruciato| CTA, Highlights, Hover       | `#FF6F3C`   |
-| Ambra Calda     | Accenti, Badge, Grafici      | `#FFB74D`   |
-| Bianco Neutro   | Testo, icone su sfondi scuri| `#F5F5F5`   |
+| Colore           | Uso Principale                | Codice Hex |
+| ---------------- | ----------------------------- | ---------- |
+| Viola Profondo   | Sfondo, componenti principali | `#2C003E`  |
+| Nero Grafite     | Background, testo secondario  | `#121212`  |
+| Arancio Bruciato | CTA, Highlights, Hover        | `#FF6F3C`  |
+| Ambra Calda      | Accenti, Badge, Grafici       | `#FFB74D`  |
+| Bianco Neutro    | Testo, icone su sfondi scuri  | `#F5F5F5`  |
 
 ---
 ## 2. Mockup e Scelte UX – Descrizione per ciascuna pagina
