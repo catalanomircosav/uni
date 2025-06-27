@@ -18,7 +18,6 @@ Un **automa finito non deterministico** e' una quintupla $(Q, \Sigma, \delta, q_
 3. $\delta : Q\times(\Sigma\cup\{\lambda\})\to Q$ e' la **funzione di transizione**,
 4. $q_0 \in Q$ e' lo **stato iniziale**,
 5. $F \subseteq Q$ e' l'**insieme degli stati finali** o **accettanti**.
-
 #### <u>cause di non determinismo</u>
 In un **NFA** ci sono due cause di non determinismo:
 - piu' transizioni partono da uno stato con la stessa etichetta
@@ -51,8 +50,6 @@ Considerando prima il caso in cui $N$ non abbia $\lambda$-archi.
 
 4. $F' = \{R\in Q'|R$ contiene uno stato finale di $N\space\}$
    La macchine $M$ accetta se uno dei possibili stati in cui $N$ potrebbe essere a quel punto e' uno stato accettante.
-
-
 ___
 ## <u>linguaggi regolari</u>
 Un linguaggio e' definito **regolare** quando e' riconosciuto da un automa finito, che sia *deterministico* o *non deterministico*.
