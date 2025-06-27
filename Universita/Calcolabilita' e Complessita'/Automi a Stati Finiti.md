@@ -7,4 +7,7 @@ ___
 Un <u>automa finito</u> ha diverse componenti. Esso ha un insieme di stati e regole per andare da uno stato a un altro, a seconda del simbolo di input. Ha un alfabeto di simboli input che indica i simboli di input permessi. Ha uno stato iniziale e un insieme di stati accettanti. La definizione formale afferma che un automa finito e' una lista di questi cinque oggetti: insieme degli stati, alfabeto di simboli di input, regole per i cambiamenti di stato, stato iniziale, e stati accettanti.
 Usiamo qualcosa il cui nome e' **funzione di transizione**, frequentemente denotato con $\delta$, per definire le regole per il cambiamento di stato.
 Definiamo quindi un automa finito come:
-> Un automa finito e' una quintupla ($Q, \Sigma, \delta, q_0, F$), div
+> Un automa finito e' una quintupla ($Q, \Sigma, \delta, q_0, F$), dove:
+> 1. $Q$ e' un insieme finito chiamato l'**insieme di stati**,
+> 2. $\Sigma$ e' un insieme finito chiamato l'**alfabeto**,
+> 3. $\delta : Q\times\Sigma \to Q$ e' la **funzione di trn**
