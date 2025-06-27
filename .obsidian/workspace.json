@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altro/Reel Wheel.md",
+                "file": "Altro/Reel Wheel/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reel Wheel"
+              "title": "README"
             }
           },
           {
@@ -204,10 +204,12 @@
   },
   "active": "523f94ea6b87af27",
   "lastOpenFiles": [
+    "Altro/Reel Wheel/Specifiche.md",
+    "Altro/Reel Wheel/README.md",
+    "Altro/Reel Wheel",
     "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
     "Universita/Calcolabilita e Complessita/2. Linguaggi regolari.md",
     "Universita/Calcolabilita e Complessita/Calcolabilita' e Complessita'.md",
-    "Altro/Reel Wheel.md",
     "Universita/Universita.md",
     "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
@@ -230,7 +232,6 @@
     "Universita/Metodi Avanzati di Programmazione/Appendici/b. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/3. Riuso delle classi in JAVA.md",
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/immagini/Pasted image 20250617185029.png",
@@ -243,7 +244,6 @@
     "DnD/immagini/diario di rolan.png",
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/Sessioni",
-    "DnD/Rules",
-    "DnD/NPCs"
+    "DnD/Rules"
   ]
 }
