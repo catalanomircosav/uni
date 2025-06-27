@@ -42,12 +42,14 @@ Considerando prima il caso in cui $N$ non abbia $\lambda$-archi.
 
 1. $Q' = P(Q)$
    Ogni stato di $M$ e' un insieme di stati di $N$.
+
 2. Per $R \in Q'$ e $a \in \Sigma$, sia $\delta'(R, a) = \{\space q \in Q | q\in \delta(r, a)$ per qualche $r\in R\space\}$
    Se $R$ e' uno stato di $M$, esso e' anche un insieme di stati di $N$.  Quando $M$ legge un simbolo $a$ nello stato $R$, mostra dove $a$ porta ogni stato in $R$. Poiché da ogni stato si puo andare in un insieme di stati, prendiamo l'unione di tutti questi insiemi. Risulta che:
    $$\delta'(R, a) = \bigcup_{r\in R}\delta(r,a)$$
 3. $q_0' = \{q_0\}$
    $M$ inizia nello stato corrispondente alla collezione che contiene solo lo stato iniziale di $N$.
-4. $F' = \{R\in Q'|R$ contiene uno stato accettante di $N\space\}$
+
+4. $F' = \{R\in Q'|R$ contiene uno stato finale di $N\space\}$
    La macchine $M$ accetta se uno dei possibili stati in cui $N$ potrebbe essere a quel punto e' uno stato accettante.
 
 
