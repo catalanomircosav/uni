@@ -57,5 +57,5 @@ Inoltre, bisogna modificare lo stato iniziale di $M$ per muovere inizialmente su
 La funzione di transizione sarà quindi: $$\delta'(R, a) = E\left( \bigcup_{r\in R}\delta(r,a) \right)$$
 ___
 ## <u>linguaggi regolari</u>
-Un linguaggio e' definito **regolare** quando e' riconosciuto da un automa finito, che sia *deterministico* o *non deterministico*.
+Un linguaggio e' definito **regolare** $\iff$ e' riconosciuto da un automa finito, che sia *deterministico* o *non deterministico*.
 ___
