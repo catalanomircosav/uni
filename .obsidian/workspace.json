@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
+                "file": "Universita/Calcolabilita e Complessita/DFA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riassunto"
+              "title": "DFA"
             }
           }
         ]
@@ -187,10 +187,13 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "abbce0c124078586",
+  "active": "523f94ea6b87af27",
   "lastOpenFiles": [
-    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti.md",
+    "Senza nome.md",
+    "Universita/Calcolabilita e Complessita/DFA.md",
     "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
+    "Universita/Calcolabilita e Complessita",
+    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/Calcolabilita' e Complessita'/4. Pumping Lemma per i Linguaggi Regolari.md",
     "Universita/Calcolabilita' e Complessita'/Calcolabilita' e Complessita'.md",
@@ -213,8 +216,6 @@
     "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
     "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/7. Contenitori.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/6. Gestione delle eccezioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/immagini/Pasted image 20250617185029.png",
@@ -228,7 +229,6 @@
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/Sessioni",
     "DnD/Rules",
-    "DnD/NPCs",
-    "DnD/Locations"
+    "DnD/NPCs"
   ]
 }
