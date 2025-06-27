@@ -25,10 +25,14 @@
             "id": "c737329323a0e9fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Espressioni regolari"
             }
           }
         ],
@@ -200,6 +204,7 @@
   },
   "active": "c737329323a0e9fd",
   "lastOpenFiles": [
+    "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
     "Universita/Universita.md",
@@ -226,7 +231,6 @@
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/immagini/Pasted image 20250617185029.png",
