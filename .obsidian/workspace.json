@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Calcolabilita e Complessita/Automi Finiti.md",
+                "file": "Universita/Universita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automi Finiti"
+              "title": "Universita"
+            }
+          },
+          {
+            "id": "c737329323a0e9fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa5e8a1874389671",
@@ -188,18 +198,21 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "523f94ea6b87af27",
+  "active": "c737329323a0e9fd",
   "lastOpenFiles": [
-    "Senza nome.md",
-    "Universita/Calcolabilita e Complessita/Automi Finiti.md",
+    "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
+    "Universita/Universita.md",
+    "Universita/Calcolabilita e Complessita/Calcolabilita' e Complessita'.md",
+    "Universita/Calcolabilita e Complessita/2. Linguaggi regolari.md",
+    "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
+    "Senza nome.md",
     "Universita/Calcolabilita e Complessita",
     "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/Calcolabilita' e Complessita'/4. Pumping Lemma per i Linguaggi Regolari.md",
     "Universita/Calcolabilita' e Complessita'/Calcolabilita' e Complessita'.md",
     "DnD/HUB.md",
-    "Universita/Universita.md",
     "Altro/2D Game Engine Architecture.md",
     "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
     "Universita/Metodi Avanzati di Programmazione/4. Paradigma Object - Oriented.md",
@@ -214,9 +227,6 @@
     "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
     "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
-    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/8. RTTI.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
     "Universita/Metodi Avanzati di Programmazione/Java",
     "Universita/Metodi Avanzati di Programmazione/Appendici",
     "Universita/immagini/Pasted image 20250617185029.png",
