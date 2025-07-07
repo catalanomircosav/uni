@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sim Racing/Basi.md",
+                "file": "Sim Racing/_Risorse/1. Basi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basi"
+              "title": "1. Basi"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6678fdedd99d422",
@@ -197,12 +198,21 @@
   },
   "active": "2e740befebfc1164",
   "lastOpenFiles": [
+    "Sim Racing/Dashboard.md",
+    "Sim Racing/_Risorse/1. Basi.md",
+    "Senza nome.md",
+    "Universita/immagini/Pasted image 20250628080857.png",
+    "Sim Racing/_Risorse",
+    "Sim Racing/Tecnica",
+    "Sim Racing/Training Log",
+    "Sim Racing/Setup Auto",
+    "Sim Racing/Tempi",
+    "Sim Racing/Circuiti",
     "Universita/Metodi Avanzati di Programmazione/MAP.md",
     "Sim Racing/Basi.md",
     "Sim Racing",
-    "Pasted image 20250628081101.png",
-    "Pasted image 20250628081043.png",
-    "Pasted image 20250628080857.png",
+    "Universita/immagini/Pasted image 20250628081101.png",
+    "Universita/immagini/Pasted image 20250628081043.png",
     "Universita/Metodi Avanzati di Programmazione/Riassunto.md",
     "Universita/Calcolabilita e Complessita/Calcolabilita' e Complessita'.md",
     "Universita/Calcolabilita e Complessita/3. Espressioni regolari.md",
@@ -210,8 +220,8 @@
     "Universita/Calcolabilita e Complessita/4. Macchina di Turing.md",
     "Universita/Calcolabilita e Complessita/1. Automi Finiti.md",
     "Universita/Calcolabilita e Complessita",
-    "Pasted image 20250628171447.png",
-    "Pasted image 20250628081153.png",
+    "Universita/immagini/Pasted image 20250628171447.png",
+    "Universita/immagini/Pasted image 20250628081153.png",
     "DS2SOFS0000.sl2",
     "Altro/Reel Wheel/Specifiche.md",
     "Altro/Reel Wheel/README.md",
@@ -219,7 +229,6 @@
     "Universita/Calcolabilita' e Complessita'/2. Automi a Stati Finiti non Deterministici.md",
     "Universita/Calcolabilita' e Complessita'/1. Automi a Stati Finiti Deterministici.md",
     "Universita/Metodi Avanzati di Programmazione/3. ADA.md",
-    "Universita/Metodi Avanzati di Programmazione.zip",
     "Universita/Metodi Avanzati di Programmazione/Java/13. Programmazione in Rete in Java.md",
     "Universita/Metodi Avanzati di Programmazione/Java/12. Multithreading.md",
     "Universita/Metodi Avanzati di Programmazione/Java/9. JAVA Generics.md",
@@ -230,15 +239,7 @@
     "Universita/Metodi Avanzati di Programmazione/Java/2. Nascondere le implementazioni.md",
     "Universita/Metodi Avanzati di Programmazione/Java/1. Introduzione a Java.md",
     "Universita/Universita.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/10. Serializzazione.md",
-    "Universita/Metodi Avanzati di Programmazione/Java/11. JDBC (Java Database Connectivity).md",
-    "Universita/Calcolabilita' e Complessita'/Automi a Stati Finiti Deterministici.md",
-    "Universita/Metodi Avanzati di Programmazione/Java",
-    "Altro",
     "Universita/immagini/Pasted image 20250617185029.png",
-    "Universita/Metodi Avanzati di Programmazione/Appendici",
-    "Universita/Calcolabilita' e Complessita'",
-    "Universita/immagini",
     "DnD/immagini/voidante.jpg",
     "DnD/immagini/sfondo campagna.jpg",
     "DnD/immagini/sfondo campagna.png",
